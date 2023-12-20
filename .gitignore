@@ -1,6 +1,8 @@
 haskell/
 
 # RUST #
+rust/template/
+
 rust/*/debug/
 rust/*/target/
 
