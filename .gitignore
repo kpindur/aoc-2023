@@ -12,4 +12,5 @@ rust/*/src/*.dat
 # ZIG #
 zig/*/zig-cache
 zig/*/zig-out
-rust/*/*.dat
+zig/*/*.dat
+zig/*/src/data/*.dat
