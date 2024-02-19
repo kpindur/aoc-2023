@@ -8,3 +8,9 @@ rust/*/target/
 
 rust/*/Cargo.lock
 rust/*/src/*.dat
+
+# ZIG #
+zig/*/zig-cache
+zig/*/zig-out
+zig/*/*.dat
+zig/*/src/data/*.dat
